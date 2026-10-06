@@ -1,4 +1,3 @@
-# Student-early-warning-system
 # Student Early-Warning & Intervention System
 
 A machine learning-based system designed to identify students who may be at academic risk and support timely, personalized intervention.
